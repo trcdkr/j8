@@ -7,6 +7,6 @@ package com.trc.j8;
 public class App {
     public static void main( String[] args )
     {
-        System.out.println( "No Hello World!" );
+        System.out.println( "Yes Yes Hello World!" );
     }
 }
